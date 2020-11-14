@@ -27,10 +27,7 @@ Next, the command prompt/terminal will ask you for the password.
 
 Key in the password and the SQL script will be executed, which creates a database, a table "account_info" and populates it with 3 rows of data:
 
-username | password
-admin      admin
-user1      pass1
-user2      pass2
+(admin, admin), (user1, pass1) & (user2, pass2)
 
 ## 3. Running the Server
 
