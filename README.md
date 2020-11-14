@@ -1,7 +1,7 @@
 # ASE-Assignment-2
 Struts 2 MVC Framework
 
-# Get Started
+# Getting Started
 ## 1. Clone This Project
 
 In your command prompt/terminal, go to your desired directory, and run the following command:
