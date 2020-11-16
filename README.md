@@ -18,10 +18,10 @@ If you have not installed MySQL in your local computer, click on this link and f
 Ensure that the bin files for MySQL are added to your environment variables.
 
 For you to connect to the MySQL database, you have to create an account by running the following command:
-
+```
 CREATE USER 'admin'@'localhost' IDENTIFIED BY 'admin';
 GRANT ALL PRIVILEGES ON account_credentials.* TO 'admin'@'localhost';
-
+```
 After installation, in the same command prompt/terminal, run the following command:
 ```
 mysql -u <username> -p < create_db.sql
