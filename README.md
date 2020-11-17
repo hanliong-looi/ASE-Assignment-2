@@ -26,7 +26,7 @@ After installation, in the same command prompt/terminal, run the following comma
 ```
 mysql -u <username> -p < create_db.sql
 ```                                  
-Here, <username> is the username you have set for your MySQL server. 
+Here, '<username>' is the username you have set for your MySQL server. 
 
 Next, the command prompt/terminal will ask you for the password.
 
